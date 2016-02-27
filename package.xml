@@ -287,6 +287,11 @@
         <name>MatchingRules</name>
     </types>
     <types>
+        <members>EmployeeLabel</members>
+        <members>EmployeeLabel2</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
