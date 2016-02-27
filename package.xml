@@ -3,6 +3,7 @@
     <types>
         <members>FestivalInfo</members>
         <members>HolidayClass</members>
+        <members>Sample</members>
         <members>WeekendWishes</members>
         <members>WorkShop</members>
         <name>ApexClass</name>
@@ -97,6 +98,7 @@
         <members>DandBCompany</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
+        <members>Employee__c</members>
         <members>Event</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
@@ -126,7 +128,16 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Employee__c-en_US</members>
+        <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>Employee__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>unfiled$public</members>
+        <members>unfiled$public/EmployeeEmailTemplate</members>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
@@ -175,6 +186,7 @@
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
+        <members>Employee__c-Employee Layout</members>
         <members>Event-Event Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
@@ -232,6 +244,7 @@
         <members>Contract.MyActivatedContracts</members>
         <members>Contract.MyDraftContracts</members>
         <members>Contract.MyInApprovalContracts</members>
+        <members>Employee__c.All</members>
         <members>Idea.Ideas_Last_7_Days</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>

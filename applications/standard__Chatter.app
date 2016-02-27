@@ -6,4 +6,5 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-CollaborationGroup</tab>
     <tab>standard-File</tab>
+    <tab>Employee__c</tab>
 </CustomApplication>
