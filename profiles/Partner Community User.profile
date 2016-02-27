@@ -61,6 +61,10 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>BasicInfo</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>FestivalInfo</apexClass>
         <enabled>false</enabled>
     </classAccesses>
